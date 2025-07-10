@@ -3,6 +3,7 @@ name: Frigate (ulimit test)
 # https://github.com/blakeblackshear/frigate-hass-addons/pull/210
 version: 687e118
 breaking_versions:
+  - 95daf0b
   - 0.15.0
   - 0.14.1
   - 0.14.0
